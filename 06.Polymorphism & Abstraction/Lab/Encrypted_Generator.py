@@ -15,3 +15,7 @@ class EncryptionGenerator:
             result +=chr(encoded_char)
 
         return result
+
+
+
+#ez
